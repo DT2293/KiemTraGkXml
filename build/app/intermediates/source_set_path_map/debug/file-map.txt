@@ -1,0 +1,12 @@
+com.example.bookstore_app-jetified-window-1.0.0-beta04-0 C:\Users\Admin\.gradle\caches\transforms-3\05afbc50c9d5c51966c5374f153362bd\transformed\jetified-window-1.0.0-beta04\res
+com.example.bookstore_app-core-1.6.0-1 C:\Users\Admin\.gradle\caches\transforms-3\101e8b389cb95798a7d32ea8dbc0126f\transformed\core-1.6.0\res
+com.example.bookstore_app-jetified-window-java-1.0.0-beta04-2 C:\Users\Admin\.gradle\caches\transforms-3\a2d5f98bb763a24d25b760f2ecad7a7e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bookstore_app-jetified-annotation-experimental-1.1.0-3 C:\Users\Admin\.gradle\caches\transforms-3\ae2073573988c210f76aee6cffb0c971\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bookstore_app-debug-4 D:\xml\xpath\bookstore_app\android\app\src\debug\res
+com.example.bookstore_app-main-5 D:\xml\xpath\bookstore_app\android\app\src\main\res
+com.example.bookstore_app-pngs-6 D:\xml\xpath\bookstore_app\build\app\generated\res\pngs\debug
+com.example.bookstore_app-resValues-7 D:\xml\xpath\bookstore_app\build\app\generated\res\resValues\debug
+com.example.bookstore_app-rs-8 D:\xml\xpath\bookstore_app\build\app\generated\res\rs\debug
+com.example.bookstore_app-mergeDebugResources-9 D:\xml\xpath\bookstore_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bookstore_app-mergeDebugResources-10 D:\xml\xpath\bookstore_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bookstore_app-merged_res-11 D:\xml\xpath\bookstore_app\build\app\intermediates\merged_res\debug
